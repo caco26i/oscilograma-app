@@ -1,0 +1,31 @@
+# Here you can overwrite any of the src/config.default.cson
+title: "Oscilograma"
+search:
+    types: ['posts']
+api:
+    baseUrl: "https://staging.oscilograma.icampos.me/wp-json"
+
+# Static metas (for SEO purpose)
+# Each page will dynamically overwrite those
+metas:
+    title: 'Oscilograma'
+    description: 'Revista universitaria del Centro Académico San José del Tecnológico de Costa Rica'
+    themeColor: '#4e8ef7'
+    # Open graph
+    ogTitle: 'Your app title'
+    ogType: 'website'
+    ogUrl: 'staging.oscilograma.icampos.me'
+    ogImage: 'https://staging.oscilograma.icampos.me/app/uploads/2018/05/logo-oscilograma.png'
+    ogImageWidth: 400
+    ogImageHeight: 400
+    # Twitter card
+    twitterSite: ''
+    twitterCreator: '' # e.g @julienrenaux
+
+admob:
+    bannerEnabled: false
+    interstitialEnabled: false
+    config:
+        publisherId: null
+        interstitialAdId: null
+        isTesting: true

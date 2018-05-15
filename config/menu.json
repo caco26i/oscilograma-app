@@ -1,0 +1,58 @@
+[
+    {
+        "type": "internal",
+        "trans": "TITLE_HOME",
+        "page": "customTabs",
+        "icon": "home",
+        "navRoot": true
+    },
+    {
+        "type": "internal",
+        "trans": "Todas las publicaciones",
+        "page": "posts",
+        "icon": "paper",
+        "navRoot": true
+    },
+    {
+        "type": "internal",
+        "trans": "SECTIONS",
+        "page": "categories",
+        "icon": "folder",
+        "navRoot": true
+    },
+    {
+        "type": "internal",
+        "trans": "BOOKMARKS",
+        "page": "bookmarks",
+        "params": {},
+        "icon": "bookmarks",
+        "navRoot": true
+    },
+    {
+        "type": "internal",
+        "trans": "AUTHORS",
+        "page": "authors",
+        "icon": "people",
+        "navRoot": true
+    },
+    {
+        "type": "external",
+        "trans": "FORUM",
+        "href": "https://staging.oscilograma.icampos.me/forums",
+        "icon": "link"
+    },
+    {
+        "type": "internal",
+        "trans": "SETTINGS",
+        "page": "params",
+        "params": {},
+        "icon": "cog",
+        "navRoot": true
+    },
+    {
+        "type": "external",
+        "trans": "TERMS",
+        "href": "https://staging.oscilograma.icampos.me/terminos-y-condiciones",
+        "icon": "link"
+    }
+]
