@@ -35,7 +35,7 @@
     "clean": "ionic-app-scripts clean",
     "run:android": "ionic build && npm run ionic:run android --livereload",
     "run:ios": "ionic build && npm run ionic:run ios --livereload",
-    "build": "ionic-app-scripts build",
+    "build": "yarn && npm run ionic:build",
     "build:dev": "./scripts/buildPWA.sh",
     "build:pwa": "./scripts/buildPWA.sh",
     "buildAndRun:pwa": "./scripts/buildPWAAndRun.sh",
@@ -74,6 +74,7 @@
     "android-versions": "^1.2.1",
     "angular2-moment": "^1.1.0",
     "clipboard": "^1.7.1",
+    "cordova-plugin-ionic": "^4.1.7",
     "debug": "^2.6.8",
     "deep-extend": "^0.4.1",
     "express": "^4.16.2",
@@ -133,5 +134,14 @@
     "ionic_webpack": "./build/webpack.js",
     "ionic_copy": "./build/copy.js",
     "ionic_watch": "./build/watch.js"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-ionic": {
+        "APP_ID": "54850c18",
+        "CHANNEL_NAME": "Master",
+        "UPDATE_METHOD": "background"
+      }
+    }
   }
 }
