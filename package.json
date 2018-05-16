@@ -35,6 +35,7 @@
     "clean": "ionic-app-scripts clean",
     "run:android": "ionic build && npm run ionic:run android --livereload",
     "run:ios": "ionic build && npm run ionic:run ios --livereload",
+    "build": "ionic-app-scripts build",
     "build:dev": "./scripts/buildPWA.sh",
     "build:pwa": "./scripts/buildPWA.sh",
     "buildAndRun:pwa": "./scripts/buildPWAAndRun.sh",
