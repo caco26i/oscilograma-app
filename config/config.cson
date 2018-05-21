@@ -29,3 +29,6 @@ admob:
         publisherId: null
         interstitialAdId: null
         isTesting: true
+
+defaultPage:
+    page: 'posts'
