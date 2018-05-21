@@ -31,4 +31,4 @@ admob:
         isTesting: true
 
 defaultPage:
-    page: 'posts'
+    page: 'customTabs'

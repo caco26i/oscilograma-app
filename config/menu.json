@@ -17,8 +17,27 @@
         "type": "internal",
         "trans": "SECTIONS",
         "page": "categories",
-        "icon": "folder",
+        "icon": "apps",
         "navRoot": true
+    },
+    {
+        "type": "folder",
+        "trans": "CALENDARS",
+        "icon": "calendar",
+        "list": [
+            {
+                "type": "external",
+                "trans": "¿Qué está haciendo la gente?",
+                "href": "https://calendar.google.com/calendar/embed?src=fflqj419rvl104hiipkdjkie48%40group.calendar.google.com&ctz=America%2FCosta_Rica",
+                "icon": "people"
+            },
+            {
+                "type": "external",
+                "trans": "¿Qué hacen nuestros vecinos?",
+                "href": "https://calendar.google.com/calendar/embed?src=5kkak1hgq5md1kq6earfifge1k%40group.calendar.google.com&ctz=America%2FCosta_Rica",
+                "icon": "compass"
+            }
+        ]
     },
     {
         "type": "internal",
@@ -32,14 +51,14 @@
         "type": "internal",
         "trans": "AUTHORS",
         "page": "authors",
-        "icon": "people",
+        "icon": "contact",
         "navRoot": true
     },
     {
         "type": "external",
         "trans": "FORUM",
         "href": "https://staging.oscilograma.icampos.me/forums",
-        "icon": "link"
+        "icon": "chatbubbles"
     },
     {
         "type": "internal",
@@ -53,6 +72,6 @@
         "type": "external",
         "trans": "TERMS",
         "href": "https://staging.oscilograma.icampos.me/terminos-y-condiciones",
-        "icon": "link"
+        "icon": "information-circle"
     }
 ]
