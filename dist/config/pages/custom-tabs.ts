@@ -17,6 +17,6 @@ export class CustomTabsPage extends TabsPage {
         type: 'internal',
         trans: 'CATEGORIES',
         page: 'categories',
-        icon: 'folder',
+        icon: 'filing',
     }]
 }

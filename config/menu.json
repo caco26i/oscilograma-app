@@ -17,7 +17,7 @@
         "type": "internal",
         "trans": "SECTIONS",
         "page": "categories",
-        "icon": "apps",
+        "icon": "filing",
         "navRoot": true
     },
     {
@@ -35,7 +35,7 @@
                 "type": "external",
                 "trans": "¿Qué hacen nuestros vecinos?",
                 "href": "https://calendar.google.com/calendar/embed?src=5kkak1hgq5md1kq6earfifge1k%40group.calendar.google.com&ctz=America%2FCosta_Rica",
-                "icon": "compass"
+                "icon": "business"
             }
         ]
     },
