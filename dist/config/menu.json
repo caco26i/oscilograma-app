@@ -57,7 +57,7 @@
     {
         "type": "external",
         "trans": "FORUM",
-        "href": "https://staging.oscilograma.icampos.me/forums",
+        "href": "https://staging.oscilograma.icampos.me/forums?hfless=true",
         "icon": "chatbubbles"
     },
     {
@@ -71,7 +71,7 @@
     {
         "type": "external",
         "trans": "TERMS",
-        "href": "https://staging.oscilograma.icampos.me/terminos-y-condiciones",
+        "href": "https://staging.oscilograma.icampos.me/terminos-y-condiciones?hfless=true",
         "icon": "information-circle"
     }
 ]

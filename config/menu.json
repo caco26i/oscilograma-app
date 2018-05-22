@@ -1,77 +1,77 @@
 [
-    {
-        "type": "internal",
-        "trans": "TITLE_HOME",
-        "page": "customTabs",
-        "icon": "home",
-        "navRoot": true
-    },
-    {
-        "type": "internal",
-        "trans": "Todas las publicaciones",
-        "page": "posts",
-        "icon": "paper",
-        "navRoot": true
-    },
-    {
-        "type": "internal",
-        "trans": "SECTIONS",
-        "page": "categories",
-        "icon": "filing",
-        "navRoot": true
-    },
-    {
-        "type": "folder",
-        "trans": "CALENDARS",
-        "icon": "calendar",
-        "list": [
-            {
-                "type": "external",
-                "trans": "¿Qué está haciendo la gente?",
-                "href": "https://calendar.google.com/calendar/embed?src=fflqj419rvl104hiipkdjkie48%40group.calendar.google.com&ctz=America%2FCosta_Rica",
-                "icon": "people"
-            },
-            {
-                "type": "external",
-                "trans": "¿Qué hacen nuestros vecinos?",
-                "href": "https://calendar.google.com/calendar/embed?src=5kkak1hgq5md1kq6earfifge1k%40group.calendar.google.com&ctz=America%2FCosta_Rica",
-                "icon": "compass"
-            }
-        ]
-    },
-    {
-        "type": "internal",
-        "trans": "BOOKMARKS",
-        "page": "bookmarks",
-        "params": {},
-        "icon": "bookmarks",
-        "navRoot": true
-    },
-    {
-        "type": "internal",
-        "trans": "AUTHORS",
-        "page": "authors",
-        "icon": "contact",
-        "navRoot": true
-    },
-    {
+  {
+    "type": "internal",
+    "trans": "TITLE_HOME",
+    "page": "customTabs",
+    "icon": "home",
+    "navRoot": true
+  },
+  {
+    "type": "internal",
+    "trans": "Todas las publicaciones",
+    "page": "posts",
+    "icon": "paper",
+    "navRoot": true
+  },
+  {
+    "type": "internal",
+    "trans": "SECTIONS",
+    "page": "categories",
+    "icon": "filing",
+    "navRoot": true
+  },
+  {
+    "type": "folder",
+    "trans": "CALENDARS",
+    "icon": "calendar",
+    "list": [
+      {
         "type": "external",
-        "trans": "FORUM",
-        "href": "https://staging.oscilograma.icampos.me/forums",
-        "icon": "chatbubbles"
-    },
-    {
-        "type": "internal",
-        "trans": "SETTINGS",
-        "page": "params",
-        "params": {},
-        "icon": "cog",
-        "navRoot": true
-    },
-    {
+        "trans": "¿Qué está haciendo la gente?",
+        "href": "https://calendar.google.com/calendar/embed?src=fflqj419rvl104hiipkdjkie48%40group.calendar.google.com&ctz=America%2FCosta_Rica",
+        "icon": "people"
+      },
+      {
         "type": "external",
-        "trans": "TERMS",
-        "href": "https://staging.oscilograma.icampos.me/terminos-y-condiciones",
-        "icon": "information-circle"
-    }
+        "trans": "¿Qué hacen nuestros vecinos?",
+        "href": "https://calendar.google.com/calendar/embed?src=5kkak1hgq5md1kq6earfifge1k%40group.calendar.google.com&ctz=America%2FCosta_Rica",
+        "icon": "compass"
+      }
+    ]
+  },
+  {
+    "type": "internal",
+    "trans": "BOOKMARKS",
+    "page": "bookmarks",
+    "params": {},
+    "icon": "bookmarks",
+    "navRoot": true
+  },
+  {
+    "type": "internal",
+    "trans": "AUTHORS",
+    "page": "authors",
+    "icon": "contact",
+    "navRoot": true
+  },
+  {
+    "type": "external",
+    "trans": "FORUM",
+    "href": "https://staging.oscilograma.icampos.me/forums?hfless=true",
+    "icon": "chatbubbles"
+  },
+  {
+    "type": "internal",
+    "trans": "SETTINGS",
+    "page": "params",
+    "params": {},
+    "icon": "cog",
+    "navRoot": true
+  },
+  {
+    "type": "external",
+    "trans": "TERMS",
+    "href": "https://staging.oscilograma.icampos.me/terminos-y-condiciones?hfless=true",
+    "icon": "information-circle"
+  }
 ]
