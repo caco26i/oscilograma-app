@@ -55,7 +55,7 @@ TITLE_USER: "Autor"
 TITLE_USER_POSTS: "Autor: {{name}}"
 
 SHARE_SUCCESS: "Compartido"
-SHARE_ERROR: "Sharing failed"
+SHARE_ERROR: "Falló al compartir"
 
 ALL: "Todo"
 SECTIONS: "Secciones"
